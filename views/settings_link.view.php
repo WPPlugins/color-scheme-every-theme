@@ -1,0 +1,1 @@
+<a href="options-general.php?page=cset"><?php _e('Settings', 'cset'); ?></a>
